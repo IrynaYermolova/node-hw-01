@@ -1,0 +1,30 @@
+{
+  "name": "node-hw-01",
+  "version": "1.0.0",
+  "description": "node-hw-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaYermolova/node-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Iryna Yermolova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrynaYermolova/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/IrynaYermolova/node-hw-01#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
