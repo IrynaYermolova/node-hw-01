@@ -1,4 +1,4 @@
-# node-hw-01
+node-hw-01
 
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table) https://monosnap.com/file/woTsSIJOf2fWuwW5BNxertG4J01tfo
 
